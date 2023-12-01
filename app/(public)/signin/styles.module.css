@@ -1,0 +1,35 @@
+.signin{
+    background-color: #ccc;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.boxSignin{
+    background-color: #fff;
+    padding: 2rem;
+}
+
+.title{
+    font-size: 2rem;
+    color: #000;
+}
+
+.form{
+    display: flex;
+    gap: 0.5rem 0;
+    flex-direction: column;
+}
+
+.input{
+    width: 100%;
+}
+
+.button{
+    background-color: #ccc;
+    padding: 1rem 2rem;
+    width: 100%;
+}
+
