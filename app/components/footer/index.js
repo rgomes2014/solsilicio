@@ -7,7 +7,7 @@ const Footer = () => {
         <Footer classNam="footer">
             <div>
                 <div>
-                    <Image src="/" width={200} height={200} />
+                    <Image src="/" width={200} height={200}  alt="logo"/>
                 </div>
                 <div>
                     <div>
@@ -31,7 +31,7 @@ const Footer = () => {
                     </ul>
                 </nav>
                 <div>
-                    <Image src="/" width={200} height={200} />
+                    <Image src="/" width={200} height={200} alt="asds"/>
                 </div>
             </div>
         </Footer>

@@ -1,4 +1,4 @@
-import styles from '@/app/components/input/styles.module.css';
+
 
 const Input = ({placehodolder,title, name, value, type,...rest}) => {
     return(

@@ -9,6 +9,7 @@ const Header = () => {
                     src="/assets/images/logo.png"
                     width={188}
                     height={40}
+                    alt="logo"
                 />
             </div>
             <div className="right">
